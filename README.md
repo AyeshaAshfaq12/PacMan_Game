@@ -12,7 +12,7 @@
 Pac-Man is an action maze chase video game, the player controls the eponymous character through an enclosed maze. The objective of the game is to eat all of the dots (Food Pellets) placed in the maze while avoiding four ghosts that pursue Pac-Man.
 I have designed it as a 2D Console based C++ game.  
 </p>
-
+<br>
 <!-- ................................................................................................................................. -->
 
 ### How to play
@@ -27,6 +27,8 @@ Following are rules to play the game:
 - There are total three lives of Pac-Man.
 - If Pac-Man collides with the ghosts more than three times, then the game will be over.
 
+<br>
+
 ### C++ Libraries used
 <br>
 Libraries of C++ used in game:
@@ -40,6 +42,7 @@ Libraries of C++ used in game:
 <br>
 <!-- .................................... -->
 
+<br>
 
 ### Technology Stack
 <br>
