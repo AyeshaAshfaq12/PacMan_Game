@@ -13,12 +13,12 @@ Pac-Man is an action maze chase video game, the player controls the eponymous ch
 I have designed it as a 2D Console based C++ game.  
 </p>
 
-<br>
 <!-- ................................................................................................................................. -->
 
 ### How to play
 <br>
 Following are rules to play the game:
+
 - The player controls Pac-Man, who must eat all the dots inside an enclosed maze while avoiding four colored ghosts. 
 - Eating  dots called (Food Pellets) causes Pac-Man to earn bonus points.
 - Pac-Man can only move inside the maze, cannot go outside the walls of maze.
@@ -30,6 +30,7 @@ Following are rules to play the game:
 ### C++ Libraries used
 <br>
 Libraries of C++ used in game:
+
 - iostream
 - fstream
 - conio.h
@@ -43,6 +44,7 @@ Libraries of C++ used in game:
 ### Technology Stack
 <br>
 Follwing technologies have been used in development of game:
+
 - C++
 
 <!-- .................................... -->
