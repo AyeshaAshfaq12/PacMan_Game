@@ -8,14 +8,15 @@
   2D Console Based Game
 </h3>
 
-<br><br>
+<br>
+
 <p align="justify">
 Pac-Man is an action maze chase video game, the player controls the eponymous character through an enclosed maze. The objective of the game is to eat all of the dots (Food Pellets) placed in the maze while avoiding four ghosts that pursue Pac-Man.
 I have designed it as a 2D Console based C++ game.  
 </p>
 
 
-<br><br>
+<br>
 <!-- ................................................................................................................................. -->
 
 ### How to play
@@ -41,7 +42,7 @@ Libraries of C++ used in game:
 - ctime
 - time.h
 
-<br><br>
+<br>
 <!-- .................................... -->
 
 
@@ -51,6 +52,5 @@ Follwing technologies have been used in development of game:
 
 - C++
 
-<br><br>
 <!-- .................................... -->
 
