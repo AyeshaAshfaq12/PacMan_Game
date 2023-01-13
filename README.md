@@ -1,5 +1,5 @@
 # PacMan_Game
-PacMan is a 2D console based game in C++. We'll focus on the Maze, the Ghosts, the food (dots) and of course, the hero himself i.e PacMan.
+# PacMan is a 2D console based game in C++. We'll focus on the Maze, the Ghosts, the food (dots) and of course, the hero himself i.e PacMan.
 <h1 align="center">
   Pac-Man Game
 </h1>
@@ -42,7 +42,8 @@ Libraries of C++ used in game:
 - time.h
 
 <br><br>
-<!-- .....
+<!-- .................................... -->
+
 
 ### Technology Stack
 <br>
@@ -51,4 +52,5 @@ Follwing technologies have been used in development of game:
 - C++
 
 <br><br>
-<!-- .....
+<!-- .................................... -->
+
