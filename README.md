@@ -1,4 +1,3 @@
-## PacMan_Game
 <h1 align="center">
   Pac-Man Game
 </h1>
