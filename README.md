@@ -30,7 +30,7 @@ Following are rules to play the game:
 
 ### C++ Libraries used
 <br>
-Libraries of C++ used in game:
+Libraries of C++ used in development of game:
 
 - iostream
 - fstream
