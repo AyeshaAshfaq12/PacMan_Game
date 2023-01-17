@@ -25,6 +25,7 @@ Following are rules to play the game:
 - Colliding with the ghosts result in -1 from lives.
 - There are total three lives of Pac-Man.
 - If Pac-Man collides with the ghosts more than three times, then the game will be over.
+- If Pac-Man scores above 500, player wins.
 
 <br>
 
