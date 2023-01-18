@@ -39,10 +39,9 @@ Libraries of C++ used in development of game:
 - windows.h
 - ctime
 - time.h
-<br>
-<!-- .................................... -->
 
 <br>
+<!-- .................................... -->
 
 ### Technology Stack
 <br>
@@ -50,6 +49,7 @@ Follwing technologies have been used in development of game:
 
 - C++
 
+<br>
 <!-- .................................... -->
 
 ### GUI
