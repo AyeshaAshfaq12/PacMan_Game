@@ -58,5 +58,5 @@ Follwing technologies have been used in development of game:
 <img src = "/img/pc2.png">
 <br>
 <img src = "/img/pc3.png">
-<br><br>
+<br>
 <!-- ................................................................................................................................. -->
