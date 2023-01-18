@@ -52,3 +52,11 @@ Follwing technologies have been used in development of game:
 
 <!-- .................................... -->
 
+### GUI
+<img src = "/img/pc1.png">
+<br>
+<img src = "/img/pc2.png">
+<br>
+<img src = "/img/pc3.png">
+<br><br>
+<!-- ................................................................................................................................. -->
